@@ -23,9 +23,9 @@ setInterest(output)
 
   return (
 
-    <div className='container shadow my-4 w-50 m-auto'>
-      <h1 className='text-center'>INTEREST CALCULATOR </h1>
-      <div class="card m-auto">
+    <div className='container shadow my-4 w-50 m-auto pb-3'>
+      <h1 className='text-center pt-3'>INTEREST CALCULATOR </h1>
+      <div class="card m-auto no-shadow ">
         <div class="header mb-4">
           <h1 className='text-center'>&#8377;{interest}</h1>
         </div>
